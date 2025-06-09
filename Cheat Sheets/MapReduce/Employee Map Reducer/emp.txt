@@ -1,0 +1,10 @@
+111,John,1000,Accounts
+121,Ahmed,1200,Administration
+131,Fatma,900,HR
+142,Sara,800,Accounts
+132,Haya,900,HR
+133,Ushna,950,HR
+134,Noor,800,HR
+112,Mary,1050,Accounts
+113,Bob,1100,Accounts
+114,Alice,1010,Accounts
